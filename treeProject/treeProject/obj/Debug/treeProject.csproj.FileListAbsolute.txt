@@ -1,0 +1,7 @@
+C:\Users\antho\source\repos\treeProject\treeProject\bin\Debug\treeProject.exe.config
+C:\Users\antho\source\repos\treeProject\treeProject\bin\Debug\treeProject.exe
+C:\Users\antho\source\repos\treeProject\treeProject\bin\Debug\treeProject.pdb
+C:\Users\antho\source\repos\treeProject\treeProject\obj\Debug\treeProject.csprojResolveAssemblyReference.cache
+C:\Users\antho\source\repos\treeProject\treeProject\obj\Debug\treeProject.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\treeProject\treeProject\obj\Debug\treeProject.exe
+C:\Users\antho\source\repos\treeProject\treeProject\obj\Debug\treeProject.pdb
